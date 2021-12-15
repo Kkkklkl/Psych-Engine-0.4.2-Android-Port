@@ -54,8 +54,12 @@ class ChartingState extends MusicBeatState
 	public static var noteTypeList:Array<String> = //Used for backwards compatibility with 0.1 - 0.3.2 charts, though, you should add your hardcoded custom note types here too.
 	[
 		'',
-		'Alt Animation',
+		'Alt Animation'
 		'Hey!',
+		'Blue Bone Note',
+		'Hell Note',
+		'EX Note',
+		'Bullet_Note'
 		'Hurt Note',
 		'GF Sing',
 		'No Animation'
